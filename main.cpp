@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main(){
-    std::cout << "Important: Obligatoriu trebuie scris cu majuscula!\n\n"
+    std::cout << "Important: Obligatoriu trebuie scris cu majuscula!\n\n";
     std::cout << "Ce tip de grade ai acuma(C = celsius, F = Fahrenheit, K = Kelvin): ";
     char tip;
     std::cin >> tip;
